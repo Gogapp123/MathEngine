@@ -1,0 +1,15 @@
+C:\Users\Gogap\source\repos\GogoEngine\bin\Debug\net6.0\GogoEngine.exe
+C:\Users\Gogap\source\repos\GogoEngine\bin\Debug\net6.0\GogoEngine.deps.json
+C:\Users\Gogap\source\repos\GogoEngine\bin\Debug\net6.0\GogoEngine.runtimeconfig.json
+C:\Users\Gogap\source\repos\GogoEngine\bin\Debug\net6.0\GogoEngine.dll
+C:\Users\Gogap\source\repos\GogoEngine\bin\Debug\net6.0\GogoEngine.pdb
+C:\Users\Gogap\source\repos\GogoEngine\obj\Debug\net6.0\GogoEngine.csproj.AssemblyReference.cache
+C:\Users\Gogap\source\repos\GogoEngine\obj\Debug\net6.0\GogoEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gogap\source\repos\GogoEngine\obj\Debug\net6.0\GogoEngine.AssemblyInfoInputs.cache
+C:\Users\Gogap\source\repos\GogoEngine\obj\Debug\net6.0\GogoEngine.AssemblyInfo.cs
+C:\Users\Gogap\source\repos\GogoEngine\obj\Debug\net6.0\GogoEngine.csproj.CoreCompileInputs.cache
+C:\Users\Gogap\source\repos\GogoEngine\obj\Debug\net6.0\GogoEngine.dll
+C:\Users\Gogap\source\repos\GogoEngine\obj\Debug\net6.0\refint\GogoEngine.dll
+C:\Users\Gogap\source\repos\GogoEngine\obj\Debug\net6.0\GogoEngine.pdb
+C:\Users\Gogap\source\repos\GogoEngine\obj\Debug\net6.0\GogoEngine.genruntimeconfig.cache
+C:\Users\Gogap\source\repos\GogoEngine\obj\Debug\net6.0\ref\GogoEngine.dll
